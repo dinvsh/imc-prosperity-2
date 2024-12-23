@@ -36,7 +36,7 @@ For more information on the algorithmic trading environment and additional conte
 
 ### Chocolate
 
-### Straweberries
+### Strawberries
 
 ### Roses
 
