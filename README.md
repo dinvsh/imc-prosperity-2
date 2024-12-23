@@ -1,1 +1,23 @@
-# imc-prosperity-2
+# IMC Prosperity 2
+This repository contains the IMC Prosperity 2 code of my solo team named "Noobland" (named as such since I have had no prior experience with either Python or anything related to trading).
+
+Final position: 265th overall, and 10th in Singapore.
+
+Huge shoutout to jmerle for making his tools open-source - they really helped a bunch.
+
+## Round Results
+| Round | Overall Profit | Global Rank | Country Rank |
+|-------|----------------|-------------|--------------|
+| 1     | 123,656        | 570         | 20           |
+| 2     | 521,145        | 246         | 10           |
+| 3     | 584,550        | 267         | 11           |
+| 4     | 805,831        | 231         | 9            |
+| 5     | 893,953        | 265         | 10           |
+
+## About Prosperity 2
+IMC Prosperity 2024 was a global algorithmic trading competition that spanned 15 days and saw participation from over 9,000 teams. The challenge involved algorithmically trading a variety of products, including amethysts, starfruit, orchids, and coconuts, with the goal of accumulating seashells, the currency of our island. We began by trading amethysts and starfruit in the first round, with new products introduced in each subsequent round. After each round, our trading algorithm was assessed against automated bot participants in the marketplace, whose actions we attempted to predict using historical data. The resulting profit and loss (PNL) from this evaluation were compared with the performance of other teams.
+
+In addition to the primary focus on algorithmic trading, the competition also featured manual trading challenges in each round. These challenges varied in focus, but manual trading ultimately contributed a small portion of our total PNL.
+
+For more information on the algorithmic trading environment and additional context about the competition, you can refer to the [Prosperity 2 Wiki](https://imc-prosperity.notion.site/Prosperity-2-Wiki-fe650c0292ae4cdb94714a3f5aa74c85). 
+
