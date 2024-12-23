@@ -6,7 +6,7 @@ Final position: 265th overall, 10th in Singapore.
 
 Huge shoutout to the GOAT [jmerle](https://github.com/jmerle), who developed the open-sourced [visualizer](https://github.com/jmerle/imc-prosperity-2-visualizer) and [backtester](https://github.com/jmerle/imc-prosperity-2-backtester). These tools were invaluable in helping me grasp how the simulated markets moved.
 
-## Round Results
+## Results
 
 | Round | Overall Profit | Global Rank | Country Rank |
 |-------|----------------|-------------|--------------|
