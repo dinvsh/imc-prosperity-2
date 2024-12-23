@@ -1,5 +1,5 @@
-# IMC Prosperity 2
-This repository contains the IMC Prosperity 2 code of my solo team named "Noobland" (named as such since I have had no prior experience with either Python or anything related to trading).
+# Noobland
+This repository contains the IMC Prosperity 2 code of my solo team "Noobland" (named as such since I have had no prior experience with either Python or anything related to trading).
 
 Final position: 265th overall, and 10th in Singapore.
 
