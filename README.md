@@ -29,7 +29,7 @@ Huge shoutout to the GOAT [jmerle](https://github.com/jmerle), who developed the
 ### Orchids
 - focused on regional arbitrage opportunities while attempting to leveraging environmental factors like humidity and financial costs such as transport and tariffs.
 - evaluated buy/sell conditions based on price spreads, storage costs, and the conversion rates between markets.
-- could'nt really work out the kinks behind feature engineering the environmental factors and just left it in my final submission as a hail mary.
+- couldn't really work out the kinks behind feature engineering the environmental factors and just left it in my final submission as a hail mary.
 
 ### Gift Baskets
 
