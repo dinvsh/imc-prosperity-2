@@ -16,7 +16,7 @@ Huge shoutout to the GOAT [jmerle](https://github.com/jmerle), who developed the
 | 4     | 805,831        | 231         | 9            |
 | 5     | 893,953        | 265         | 10           |
 
-## Products
+## Strategy
 
 ### Amethysts
 I assumed a true value of 10,000 seashells, and utilised market-making and market-taking strategies concurrently. The strategy dynamically adjusts order sizes and prices based on market conditions and my current position.
