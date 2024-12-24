@@ -18,25 +18,25 @@ Huge shoutout to the GOAT [jmerle](https://github.com/jmerle), who developed the
 
 ## Strategy
 
-### Amethysts
+#### Amethysts
 I assumed a true value of 10,000 seashells, and utilised market-making and market-taking strategies concurrently. The strategy dynamically adjusts order sizes and prices based on market conditions and my current position.
 
-### Starfruit
+#### Starfruit
 I used a simple linear regression model to predict the next mid-price of the STARFRUIT product based on the last 10 mid-prices. The strategy compares the predicted price to the current best bid and ask prices to generate buy or sell signals, considering spread conditions and position limits.
 
-### Orchids
+#### Orchids
 
 
-### Gift Baskets
+#### Gift Baskets
 
-### Chocolate
+#### Chocolate
 
-### Strawberries
+#### Strawberries
 
-### Roses
+#### Roses
 
-### Coconut
+#### Coconut
 
-### Coconut Coupon
+#### Coconut Coupon
 
 
