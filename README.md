@@ -1,4 +1,5 @@
 # IMC Prosperity 2
+<img src="Final Results.png" alt="Final Results" width="360"/>
 
 This repository contains the IMC Prosperity 2 code from my solo team "Noobland" (named as a nod to my next-to-no prior experience with coding and trading).
 
