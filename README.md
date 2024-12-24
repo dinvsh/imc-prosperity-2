@@ -27,10 +27,13 @@ For more information on the algorithmic trading environment and additional conte
 ## Products
 
 ### Amethysts
+I assumed a true value of 10,000 seashells, and utilised market-making and market-taking strategies concurrently. The strategy dynamically adjusts order sizes and prices based on market conditions and my current position.
 
 ### Starfruit
+I used a simple linear regression model to predict the next mid-price of the STARFRUIT product based on the last 10 mid-prices. The strategy compares the predicted price to the current best bid and ask prices to generate buy or sell signals, considering spread conditions and position limits.
 
 ### Orchids
+
 
 ### Gift Baskets
 
