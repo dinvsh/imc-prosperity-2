@@ -4,7 +4,7 @@
 
 This repository contains the IMC Prosperity 2 code from my solo team "Noobland" (named as a nod to my next-to-no prior experience with coding and trading).
 
-Final position: 265th overall, 10th in Singapore.
+Final position: 10th in Singapore, and 265th out of 9,140 teams internationally.
 
 Huge shoutout to the GOAT [jmerle](https://github.com/jmerle), who developed the open-sourced [visualizer](https://github.com/jmerle/imc-prosperity-2-visualizer) and [backtester](https://github.com/jmerle/imc-prosperity-2-backtester). These tools were invaluable in helping me grasp how the simulated markets moved.
 
