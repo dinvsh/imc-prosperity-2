@@ -20,20 +20,16 @@ Huge shoutout to the GOAT [jmerle](https://github.com/jmerle), who developed the
 
 ### Amethysts
 - assumed a true value of 10,000 seashells, and utilised market-making and market-taking strategies concurrently.
-- dynamically adjusted order sizes and prices based on market conditions and current position.
 
 ### Starfruit
 - used a simple linear regression model to predict the next mid-price of the STARFRUIT product based on the last 10 mid-prices.
-- compared the predicted price to the current best bid and ask prices to generate buy or sell signals, considering spread conditions and position limits.
 
 ### Orchids
 - focused on regional arbitrage opportunities while attempting to leverage environmental factors like humidity and financial costs such as transport and tariffs.
-- evaluated buy/sell conditions based on price spreads, storage costs, and the conversion rates between markets.
 - couldn't really work out the kinks behind feature engineering the environmental factors and just left it in my final submission as a hail mary.
 
 ### Gift Baskets
 - mainly used the concept of ETF arbitrage by trading around the spread between a gift basket and its underlying components (4 chocolates, 6 strawberries, and 1 rose).
-- went 100% long when the spread is greater than the assumed premium and vice versa.
 
 ### Chocolate
 - could not find a consistently profitable strategy.
