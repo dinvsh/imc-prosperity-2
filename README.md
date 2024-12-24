@@ -26,7 +26,7 @@ Huge shoutout to the GOAT [jmerle](https://github.com/jmerle), who developed the
 
 ### Orchids
 - focused on regional arbitrage opportunities while attempting to leverage environmental factors like humidity and financial costs such as transport and tariffs.
-- couldn't really work out the kinks behind feature engineering the environmental factors and just left it in my final submission as a hail mary.
+- couldn't fully work out the kinks behind feature engineering the environmental factors and just left it in my final submission as a hail mary.
 
 ### Gift Baskets
 - mainly used the concept of ETF arbitrage by trading around the spread between a gift basket and its underlying components (4 chocolates, 6 strawberries, and 1 rose).
