@@ -25,7 +25,7 @@ I assumed a true value of 10,000 seashells, and utilised market-making and marke
 I used a simple linear regression model to predict the next mid-price of the STARFRUIT product based on the last 10 mid-prices. The strategy compares the predicted price to the current best bid and ask prices to generate buy or sell signals, considering spread conditions and position limits.
 
 ### Orchids
-I mainly focused on regional arbitrage opportunities while attempting to leveraging environmental factors like humidity and financial costs such as transport and tariffs. The approach evaluates buy/sell conditions based on price spreads, storage costs, and the conversion rates between markets. However, I could not work out the kinks behind feature engineering the environmental factors and left it in my final submission as a hail mary.
+I mainly focused on regional arbitrage opportunities while attempting to leveraging environmental factors like humidity and financial costs such as transport and tariffs. The approach evaluates buy/sell conditions based on price spreads, storage costs, and the conversion rates between markets. I could'nt really work out the kinks behind feature engineering the environmental factors and just left it in my final submission as a hail mary.
 
 ### Gift Baskets
 
