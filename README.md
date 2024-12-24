@@ -19,13 +19,17 @@ Huge shoutout to the GOAT [jmerle](https://github.com/jmerle), who developed the
 ## Strategy
 
 ### Amethysts
-I assumed a true value of 10,000 seashells, and utilised market-making and market-taking strategies concurrently. The strategy dynamically adjusts order sizes and prices based on market conditions and my current position.
+- assumed a true value of 10,000 seashells, and utilised market-making and market-taking strategies concurrently.
+- dynamically adjusted order sizes and prices based on market conditions and current position.
 
 ### Starfruit
-I used a simple linear regression model to predict the next mid-price of the STARFRUIT product based on the last 10 mid-prices. The strategy compares the predicted price to the current best bid and ask prices to generate buy or sell signals, considering spread conditions and position limits.
+- used a simple linear regression model to predict the next mid-price of the STARFRUIT product based on the last 10 mid-prices.
+- compared the predicted price to the current best bid and ask prices to generate buy or sell signals, considering spread conditions and position limits.
 
 ### Orchids
-I mainly focused on regional arbitrage opportunities while attempting to leveraging environmental factors like humidity and financial costs such as transport and tariffs. The approach evaluates buy/sell conditions based on price spreads, storage costs, and the conversion rates between markets. I could'nt really work out the kinks behind feature engineering the environmental factors and just left it in my final submission as a hail mary.
+- focused on regional arbitrage opportunities while attempting to leveraging environmental factors like humidity and financial costs such as transport and tariffs.
+- evaluated buy/sell conditions based on price spreads, storage costs, and the conversion rates between markets.
+- could'nt really work out the kinks behind feature engineering the environmental factors and just left it in my final submission as a hail mary.
 
 ### Gift Baskets
 
