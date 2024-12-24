@@ -16,7 +16,7 @@ Huge shoutout to the GOAT [jmerle](https://github.com/jmerle), who developed the
 | 4     | 805,831        | 231         | 9            |
 | 5     | 893,953        | 265         | 10           |
 
-## Strategy
+## Final Strategy
 
 ### Amethysts
 - assumed a true value of 10,000 seashells, and utilised market-making and market-taking strategies concurrently.
@@ -27,18 +27,25 @@ Huge shoutout to the GOAT [jmerle](https://github.com/jmerle), who developed the
 - compared the predicted price to the current best bid and ask prices to generate buy or sell signals, considering spread conditions and position limits.
 
 ### Orchids
-- focused on regional arbitrage opportunities while attempting to leveraging environmental factors like humidity and financial costs such as transport and tariffs.
+- focused on regional arbitrage opportunities while attempting to leverage environmental factors like humidity and financial costs such as transport and tariffs.
 - evaluated buy/sell conditions based on price spreads, storage costs, and the conversion rates between markets.
 - couldn't really work out the kinks behind feature engineering the environmental factors and just left it in my final submission as a hail mary.
 
 ### Gift Baskets
+- mainly used the concept of ETF arbitrage by trading around the spread between a gift basket and its underlying components (4 chocolates, 6 strawberries, and 1 rose).
+- went 100% long when the spread is greater than the assumed premium and vice versa.
 
 ### Chocolate
-
+- could not find a consistently profitable strategy.
+  
 ### Strawberries
-
+- could not find a consistently profitable strategy.
+  
 ### Roses
+- tracked trades involving Rhianna and mirrored her trading decisions, as she consistently capitalized on favorable market movements.
 
 ### Coconut
+- could not find a consistently profitable strategy.
 
-### Coconut Coupon
+### Coconut Coupons
+- used the Black-Scholes model to estimate the theoretical price of coconut coupons and traded based on price discrepancies between the theoretical and market prices.
