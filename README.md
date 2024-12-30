@@ -4,6 +4,8 @@
 
 This repository contains the IMC Prosperity 2 code from my solo team "Noobland" (named as a nod to my next-to-no prior experience with coding and trading).
 
+Final position: 10th in Singapore, and 265th out of 9,140 teams internationally.
+
 #### Disclaimer
 Code Quality: This code was written while I was learning Python on the go, so it might not follow best practices or Pythonic standards. Expect redundancies, inefficient logic, and limited documentation. 
 
@@ -12,8 +14,6 @@ Purpose: The code is shared as part of my learning journey during the competitio
 Huge shoutout to the GOAT [jmerle](https://github.com/jmerle), who developed the open-sourced [visualizer](https://github.com/jmerle/imc-prosperity-2-visualizer) and [backtester](https://github.com/jmerle/imc-prosperity-2-backtester). These tools were invaluable for understanding market movements and refining strategies.
 
 ## Results
-
-Final position: 10th in Singapore, and 265th out of 9,140 teams internationally.
 
 | Round | Overall Profit | Global Rank | Country Rank |
 |-------|----------------|-------------|--------------|
@@ -29,7 +29,7 @@ Final position: 10th in Singapore, and 265th out of 9,140 teams internationally.
 - assumed a true value of 10,000 seashells, and used market-making and market-taking strategies concurrently.
 
 ### Starfruit
-- used a simple linear regression model to predict the next mid-price of the STARFRUIT product based on the last 10 mid-prices.
+- used a simple linear regression model to predict the next mid-price of the product based on the last 10 mid-prices.
 
 ### Orchids
 - focused on regional arbitrage opportunities while attempting to leverage environmental factors like humidity and financial costs such as transport and tariffs.
