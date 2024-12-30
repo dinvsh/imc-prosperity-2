@@ -6,7 +6,7 @@ This repository contains the IMC Prosperity 2 code from my solo team "Noobland" 
 
 #### Disclaimer
 Code Quality: This code was written while I was learning Python on the go, so it might not follow best practices or Pythonic standards. Expect redundancies, inefficient logic, and limited documentation.
-Purpose: The code is shared as part of my learning journey during the competition rather than as a polished or production-ready project.
+/n Purpose: The code is shared as part of my learning journey during the competition rather than as a polished or production-ready project.
 
 Huge shoutout to the GOAT [jmerle](https://github.com/jmerle), who developed the open-sourced [visualizer](https://github.com/jmerle/imc-prosperity-2-visualizer) and [backtester](https://github.com/jmerle/imc-prosperity-2-backtester). These tools were invaluable for understanding market movements and refining strategies.
 
