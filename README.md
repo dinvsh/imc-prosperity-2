@@ -24,7 +24,6 @@ Purpose: The code is shared as part of my learning journey during the competitio
 | 5     | 893,953        | 265         | 10           |
 
 ## Final Strategy
-
 ### Amethysts
 - assumed a true value of 10,000 seashells, and used market-making and market-taking strategies concurrently.
 
