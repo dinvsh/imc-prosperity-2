@@ -5,13 +5,14 @@
 This repository contains the IMC Prosperity 2 code from my solo team "Noobland" (named as a nod to my next-to-no prior experience with coding and trading).
 
 #### Disclaimer
-Code Quality: The code may not follow best practices or adhere to Pythonic standards, as I was learning Python on the go. There might be redundancies, inefficient logic, and limited documentation.
+Code Quality: This code was written while I was learning Python on the go, so it might not follow best practices or Pythonic standards. Expect redundancies, inefficient logic, and limited documentation.
+Purpose: The code is shared as part of my learning journey during the competition rather than as a polished or production-ready project.
 
-Final position: 10th in Singapore, and 265th out of 9,140 teams internationally.
-
-Huge shoutout to the GOAT [jmerle](https://github.com/jmerle), who developed the open-sourced [visualizer](https://github.com/jmerle/imc-prosperity-2-visualizer) and [backtester](https://github.com/jmerle/imc-prosperity-2-backtester). These tools were invaluable in helping me grasp how the simulated markets moved.
+Huge shoutout to the GOAT [jmerle](https://github.com/jmerle), who developed the open-sourced [visualizer](https://github.com/jmerle/imc-prosperity-2-visualizer) and [backtester](https://github.com/jmerle/imc-prosperity-2-backtester). These tools were invaluable for understanding market movements and refining strategies.
 
 ## Results
+
+Final position: 10th in Singapore, and 265th out of 9,140 teams internationally.
 
 | Round | Overall Profit | Global Rank | Country Rank |
 |-------|----------------|-------------|--------------|
